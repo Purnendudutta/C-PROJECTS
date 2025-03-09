@@ -15,7 +15,7 @@
 - C Program to Find Compound Interest 
 - C Program for Area And Perimeter Of Rectangle  
 
-- # C Program – Control Flow 
+# C Program – Control Flow 
 - C Program to Check Whether a Number is Positive, Negative, or Zero
 - C Program to Check Whether Number is Even or Odd
 - C Program to Check Whether a Character is Vowel or Consonant 
@@ -39,7 +39,7 @@
 - C Program to Find All Factors of a Natural Number
 - C program to  Sum of Fibonacci Numbers at Even Indexes up to N Terms 
 
-- # C Program – Pattern Printing
+# C Program – Pattern Printing
 - C Program to Print Simple Pyramid Pattern 
 - C Program to Print Given Triangle 
 - C Program to Print 1800 Rotation of Simple Pyramid
@@ -55,7 +55,7 @@
 - C Program to Print Floyd’s Pattern Triangle Pyramid 
 - C Program to Print Reverse Floyd pattern Triangle Pyramid 
 
-- # C Program – Functions
+# C Program – Functions
 - C Program to Check Prime Number By Creating a Function 
 - C Program to Display Prime Numbers Between Two Intervals Using Functions 
 - C Program to Find All Roots of a Quadratic Equation
@@ -65,8 +65,8 @@
 - C Program to Find G.C.D Using Recursion
 - C Program to Reverse a Stack using Recursion
 - C Program to Calculate Power Using Recursion
-- 
-- # C Program – Arrays
+
+# C Program – Arrays
 - C Program to Print a 2D Array
 - C Program to Find the Largest Element in an Array
 - C Program to Find the Maximum and Minimum in an Array
