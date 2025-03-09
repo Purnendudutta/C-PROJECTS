@@ -97,7 +97,7 @@
 - C Program to Interchange Elements of First and Last in a Matrix Across Rows 
 - C Program to Interchange Elements of First and Last in a Matrix Across Columns 
 
-- # C Program – Strings
+# C Program – Strings
 - C Program to Add or Concatenate Two Strings
 - C Program to Add 2 Binary Strings
 - C Program to Get a Non-Repeating Character From the Given String
@@ -115,7 +115,7 @@
 - C Program to Insert a String into Another String
 - C Program to Split a String into a Number of Sub-Strings 
 
-- # C Program – Conversions
+# C Program – Conversions
 - C Program For Boolean to String Conversion 
 - C Program For Float to String Conversion
 - C Program For Double to String Conversion 
@@ -130,7 +130,7 @@
 - C Program For Decimal to Binary Conversion 
 - C Program For Binary to Decimal Conversion
 
-- # C Program – Pointers
+# C Program – Pointers
 - How to Return a Pointer from a Function in C
 - How to Declare a Two-Dimensional Array of Pointers in C?
 - C Program to Find the Largest Element in an Array using Pointers
@@ -140,7 +140,7 @@
 - C Program to Check if a String is a Palindrome using Pointers
 - C Program to Create a Copy of a Singly Linked List using Recursion
 
-- # C Program – Structures and Unions
+# C Program – Structures and Unions
 - C Program to Store Information of Students Using Structure
 - C Program to Store Student Records as Structures and Sort them by Name
 - C Program to Add N Distances Given in inch-feet System using Structures
@@ -149,7 +149,7 @@
 - Read/Write Structure to a File in C 
 - Flexible Array Members in a Structure in C
 
-- # C Program – File IO
+# C Program – File IO
 - C Program to Create a Temporary File
 - C Program to Read/Write Structure to a File
 - C Program to Rename a file
@@ -161,7 +161,7 @@
 - C Program to Read Content From One File and Write it Into Another File
 - C Program to Read and Print all Files From a Zip File
 
-- # C Program – Date and Time
+# C Program – Date and Time
 - C Program to Format time in AM-PM format 
 - C program to Print Digital Clock with the Current Time
 - C Program to Display Dates of Calendar Year in Different Formats
@@ -170,7 +170,7 @@
 - C Program to Convert the Local Time to GMT
 - C Program to Convert Hours into Minutes and Seconds
 
-- # C Program – More C Programs
+# C Program – More C Programs
 - C Program to Show Runtime exceptions 
 - C Program to Show Types of errors 
 - C Program to Show Unreachable Code Error 
