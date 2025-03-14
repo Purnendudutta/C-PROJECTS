@@ -21,11 +21,11 @@ void calculate(float value);
 
 void calculate(float value) {
 value = (value + (0.18*value));
-printf("Final Price is : %f",value");	
+printf("Final Price is : %f",value);	
 }
 
 int main() {
 	float value=100.0;
 	calculate(value);
-	printf("Final Price is : %f",value);
+	printf("Value is : %f",value);
 }
