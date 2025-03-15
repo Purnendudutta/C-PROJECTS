@@ -1,7 +1,8 @@
 #include<stdio.h>
 #include<math.h>
 
-/*
+/*		===== FUNCTION =====
+
 int sum(int a, int b);
 
 int sum(int x, int y){
@@ -34,7 +35,7 @@ int main() {
 	printf("Value is : %.2f",value);
 }
 */
-
+/*
 float squareArea(float a);
 float circleArea(float red);
 float rectangleArea(float a, float b);
@@ -43,8 +44,8 @@ float squareArea(float a) {
 	return a*a;
 }
 
-float circleArea(float red) {
-	return (3.14*red*red);
+float circleArea(float a) {
+	return (3.14*a*a);
 }
 
 float rectangleArea(float a, float b) {
@@ -79,3 +80,5 @@ int main() {
         printf("Area:%f",rectangleArea(a,b));
 	}
 }
+*/
+
