@@ -75,9 +75,8 @@ float convertTemp(int celcius) {
  	
  	printf("percentage is :%d",percent(num1,num2,num3));
  }
- */
- 
-
+*/
+/*			==== FIBONACCI SERIES USING RECURSION ====
 int fibonacci(int n) {
     if (n <= 1) {
         return n;
@@ -98,3 +97,4 @@ int main() {
     
     return 0;
 }
+*/
