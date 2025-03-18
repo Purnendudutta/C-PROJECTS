@@ -46,8 +46,9 @@ int main() {
 	printf("x=%d y=%d\n",x,y);
 	return 0;
 }
-*/
-
+*/ 
+/* 
+//        USE OF POINTER =====
 #include<stdio.h>
 void dowork(int a, int b, int *sum, int *prod, int *avg);
 int main() {
