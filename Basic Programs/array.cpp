@@ -29,3 +29,9 @@ int main() {
 	printf("Before gst = %.2f\ngst = %.2f\nTotal bill = %.2f",tot,gst,sum);
 }
 */
+
+#include<stdio.h>
+int main()
+{
+	
+}
